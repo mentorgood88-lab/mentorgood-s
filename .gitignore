@@ -1,0 +1,5 @@
+# Patient-level data must never be committed
+*.xlsx
+*.xls
+*.csv
+__pycache__/
